@@ -65,7 +65,7 @@ synthetic and open data.
 
 | Stages | Repo | What it covers | Status |
 | :- | :- | :- | :- |
-| 1 | `msna-sampling` | Sampling and resampling under access constraints | In progress |
+| 1 | [`msna-sampling`](https://github.com/JackPhilpott/msna-sampling) | Sampling and resampling under access constraints, in R and Python | Live |
 | 2–3 | `msna-monitoring` | Field monitoring, cleaning and validity checks, with a Shiny dashboard demo | Planned |
 | 4–5 | `msna-results` | Analysis and reporting | Planned, mid-Nov 2026 |
 
