@@ -66,7 +66,7 @@ synthetic and open data.
 | Stages | Repo | What it covers | Status |
 | :- | :- | :- | :- |
 | 1 | [`msna-sampling`](https://github.com/JackPhilpott/msna-sampling) | Sampling and resampling under access constraints, in R and Python | Live |
-| 2–3 | `msna-monitoring` | Field monitoring, cleaning and validity checks, with a Shiny dashboard demo | Planned |
+| 2–3 | [`msna-monitoring`](https://github.com/JackPhilpott/msna-monitoring) | Field monitoring, cleaning and validity checks, with a [live Shiny dashboard](https://jackphilpott.shinyapps.io/msna-monitoring/) | Live |
 | 4–5 | `msna-results` | Analysis and reporting | Planned, mid-Nov 2026 |
 
 Links are added as each repo goes public.
