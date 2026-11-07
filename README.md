@@ -1,5 +1,7 @@
 # MSNA pipeline
 
+[![CI](https://github.com/JackPhilpott/msna-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/JackPhilpott/msna-pipeline/actions/workflows/ci.yml)
+
 Public versions of my data work on the 2026 northern Nigeria Multi-Sector Needs Assessment (MSNA),
 from drawing the sample to reporting the results. This repo is the hub: it shows how the stages
 fit together and links to the stage repos, which hold the code.
@@ -40,6 +42,9 @@ This repo has no code. Each stage repo stands alone: clone it and follow its REA
 The stages hand off data through `data/synthetic/`. Each stage commits its synthetic outputs there,
 and the next stage copies them into `data/synthetic/from_<stage>/`. All stages use the same random
 seed, so the whole chain can be rerun end to end and give the same results.
+
+Each stage repo runs its linters (lintr and ruff) and its R and Python tests in GitHub Actions on
+every push. This hub's own CI checks its Markdown and, every Monday, that its links still work.
 
 ## How the public versions are built
 
