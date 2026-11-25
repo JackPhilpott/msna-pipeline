@@ -10,10 +10,10 @@ fit together and links to the stage repos, which hold the code.
 measure needs across sectors such as food, health, water, shelter and protection. Its findings feed
 the yearly humanitarian planning cycle, which decides where aid goes and who it reaches.
 
-**The real-world project.** The 2026 northern Nigeria MSNA covers 32,000 households across 11 states
-and 176 local government areas (LGAs). Data collection runs with 20+ partner organisations, at up to
-1,000 submissions a day. At that scale, the sample has to be redrawn when areas become unreachable,
-and monitoring and cleaning have to keep pace with collection.
+**The real-world project.** The 2026 northern Nigeria MSNA collected 30,544 household interviews
+across 11 states and 170 local government areas (LGAs), with 22 partner organisations and more than
+1,000 submissions a day at peak. 27,333 were kept after cleaning. At that scale, the sample had to be
+redrawn when areas became unreachable, and monitoring and cleaning had to keep pace with collection.
 
 ## How it works
 
